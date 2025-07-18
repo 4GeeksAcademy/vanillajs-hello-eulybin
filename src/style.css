@@ -1,5 +1,7 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+body {
+  font-family: 'JetBrains Mono';
+}
 
-body{
-    background: white;
+p {
+  font-style: italic;
 }
